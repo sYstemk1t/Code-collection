@@ -1,0 +1,14 @@
+﻿生成启动时间为 2019/12/11 14:25:01。
+     1>项目“F:\Code-collection\Windows-Api\API开发详解\内存管理\HepCreate\HepCreate\HepCreate.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Heap.c
+         Heap.c
+     1>f:\code-collection\windows-api\api开发详解\内存管理\hepcreate\hepcreate\heap.c(51): warning C4101: “dwHeapSize”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Code-collection\Windows-Api\API开发详解\内存管理\HepCreate\Debug\HepCreate.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Code-collection\Windows-Api\API开发详解\内存管理\HepCreate\Debug\HepCreate.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Code-collection\Windows-Api\API开发详解\内存管理\HepCreate\Debug\HepCreate.lib" /MACHINE:X86 Debug\Heap.obj
+         HepCreate.vcxproj -> F:\Code-collection\Windows-Api\API开发详解\内存管理\HepCreate\Debug\HepCreate.exe
+     1>已完成生成项目“F:\Code-collection\Windows-Api\API开发详解\内存管理\HepCreate\HepCreate\HepCreate.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.43

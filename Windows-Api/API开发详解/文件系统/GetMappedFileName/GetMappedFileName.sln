@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetMappedFileName", "GetMappedFileName\GetMappedFileName.vcxproj", "{75D5EB55-AE13-4B2E-8022-E2453A38E840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D5EB55-AE13-4B2E-8022-E2453A38E840}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75D5EB55-AE13-4B2E-8022-E2453A38E840}.Debug|Win32.Build.0 = Debug|Win32
+		{75D5EB55-AE13-4B2E-8022-E2453A38E840}.Release|Win32.ActiveCfg = Release|Win32
+		{75D5EB55-AE13-4B2E-8022-E2453A38E840}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
