@@ -1,0 +1,20 @@
+﻿  u.c
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(23): warning C4133: “函数”: 从“char [255]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(29): warning C4133: “函数”: 从“char [4]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(34): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(34): warning C4133: “函数”: 从“char [4]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(35): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(35): warning C4133: “函数”: 从“char [12]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(36): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(36): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(39): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(42): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(42): warning C4133: “函数”: 从“char [4]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(43): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(43): warning C4133: “函数”: 从“char [12]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(44): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(51): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(56): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(73): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\u盘病毒\u盘病毒\u.c(77): warning C4133: “函数”: 从“char [4]”到“LPCWSTR”的类型不兼容
+  U盘病毒.vcxproj -> F:\Code-collection\Windows-Api\黑客编程\U盘病毒\Debug\U盘病毒.exe
