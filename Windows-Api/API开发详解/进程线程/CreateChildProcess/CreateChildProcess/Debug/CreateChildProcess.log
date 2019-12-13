@@ -1,0 +1,4 @@
+﻿  CreateChildProcess.c
+f:\code-collection\windows-api\api开发详解\进程线程\createchildprocess\createchildprocess\createchildprocess.c(39): warning C4007: “WinMain”: 必须是“__stdcall”
+f:\code-collection\windows-api\api开发详解\进程线程\createchildprocess\createchildprocess\createchildprocess.c(59): warning C4018: “<”: 有符号/无符号不匹配
+  CreateChildProcess.vcxproj -> F:\Code-collection\Windows-Api\API开发详解\进程线程\CreateChildProcess\Debug\CreateChildProcess.exe
