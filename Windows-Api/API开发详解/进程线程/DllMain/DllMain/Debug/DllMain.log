@@ -1,0 +1,12 @@
+﻿  DllMain.c
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(24): warning C4022: “K32GetModuleBaseNameW”: 指针与实参 1 不匹配
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(24): warning C4133: “函数”: 从“char [260]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(25): warning C4133: “函数”: 从“char [324]”到“LPWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(25): warning C4133: “函数”: 从“char [25]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(26): warning C4133: “函数”: 从“char [324]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(26): warning C4133: “函数”: 从“char [8]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(53): warning C4133: “函数”: 从“LPSTR”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(54): warning C4133: “函数”: 从“char [6]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\api开发详解\进程线程\dllmain\dllmain\dllmain.c(55): warning C4133: “函数”: 从“char [23]”到“LPCWSTR”的类型不兼容
+     正在创建库 F:\Code-collection\Windows-Api\API开发详解\进程线程\DllMain\Debug\DllMain.lib 和对象 F:\Code-collection\Windows-Api\API开发详解\进程线程\DllMain\Debug\DllMain.exp
+  DllMain.vcxproj -> F:\Code-collection\Windows-Api\API开发详解\进程线程\DllMain\Debug\DllMain.dll
