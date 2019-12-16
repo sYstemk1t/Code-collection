@@ -1,0 +1,4 @@
+﻿  bool.cpp
+f:\code-collection\c++\basis\c++\bool\bool\bool.cpp(17): warning C4305: “return”: 从“bool (__cdecl *)(int,int)”到“bool”截断
+f:\code-collection\c++\basis\c++\bool\bool\bool.cpp(17): warning C4800: “bool (__cdecl *)(int,int)”: 将值强制为布尔值“true”或“false”(性能警告)
+  bool.vcxproj -> F:\Code-collection\c++\Basis\C++\bool\Debug\bool.exe
