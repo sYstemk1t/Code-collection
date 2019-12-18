@@ -1,0 +1,4 @@
+﻿  CreateSemapHore.c
+f:\code\windows-api\api开发详解\线程同步\createsemaphero\createsemaphero\createsemaphore.c(65): warning C4013: “getch”未定义；假设外部返回 int
+f:\code\windows-api\api开发详解\线程同步\createsemaphero\createsemaphero\createsemaphore.c(109): warning C4101: “lpRead”: 未引用的局部变量
+  CreateSemapHero.vcxproj -> F:\Code\Windows-Api\API开发详解\线程同步\CreateSemapHero\Debug\CreateSemapHero.exe

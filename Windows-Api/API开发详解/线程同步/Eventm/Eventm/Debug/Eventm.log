@@ -1,0 +1,4 @@
+﻿  Event.c
+f:\code\windows-api\api开发详解\线程同步\eventm\eventm\event.c(102): warning C4133: “函数”: 从“BYTE [16]”到“LPWSTR”的类型不兼容
+f:\code\windows-api\api开发详解\线程同步\eventm\eventm\event.c(102): warning C4133: “函数”: 从“char [10]”到“LPCWSTR”的类型不兼容
+  Eventm.vcxproj -> F:\Code\Windows-Api\API开发详解\线程同步\Eventm\Debug\Eventm.exe

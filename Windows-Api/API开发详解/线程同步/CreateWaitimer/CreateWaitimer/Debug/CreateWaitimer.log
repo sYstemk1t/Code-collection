@@ -1,0 +1,4 @@
+﻿  CreateWaitimer.c
+f:\code\windows-api\api开发详解\线程同步\createwaitimer\createwaitimer\createwaitimer.c(57): warning C4133: “=”: 从“char [21]”到“TCHAR *”的类型不兼容
+f:\code\windows-api\api开发详解\线程同步\createwaitimer\createwaitimer\createwaitimer.c(62): warning C4133: “函数”: 从“char [8]”到“LPCWSTR”的类型不兼容
+  CreateWaitimer.vcxproj -> F:\Code\Windows-Api\API开发详解\线程同步\CreateWaitimer\Debug\CreateWaitimer.exe

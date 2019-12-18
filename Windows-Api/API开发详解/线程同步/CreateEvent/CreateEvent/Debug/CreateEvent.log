@@ -1,0 +1,3 @@
+﻿  CreateEvent.c
+f:\code\windows-api\api开发详解\线程同步\createevent\createevent\createevent.c(50): warning C4133: “函数”: 从“char [6]”到“LPCWSTR”的类型不兼容
+  CreateEvent.vcxproj -> F:\Code\Windows-Api\API开发详解\线程同步\CreateEvent\Debug\CreateEvent.exe
