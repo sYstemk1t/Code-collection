@@ -1,0 +1,4 @@
+﻿  下载者.c
+f:\code-collection\windows-api\黑客编程\下载者\下载者\下载者.c(13): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+f:\code-collection\windows-api\黑客编程\下载者\下载者\下载者.c(29): warning C4133: “函数”: 从“char [260]”到“LPCWSTR”的类型不兼容
+  下载者.vcxproj -> F:\Code-collection\Windows-Api\黑客编程\下载者\Debug\下载者.exe
