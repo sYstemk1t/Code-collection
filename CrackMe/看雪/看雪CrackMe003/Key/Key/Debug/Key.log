@@ -1,6 +1,0 @@
-﻿  stdafx.cpp
-  Key.cpp
-f:\code-collection\crackme\看雪\看雪crackme003\key\key\key.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
-f:\code-collection\crackme\看雪\看雪crackme003\key\key\key.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
-  Key.vcxproj -> F:\Code-collection\CrackMe\看雪\看雪CrackMe003\Key\Debug\Key.exe

@@ -137,5 +137,6 @@ int main(void)
 	LPSTR szFileData = "这是一个例子";
 	SaveDataToFile("F:\\show.txt", szFileData, lstrlen(szFileData));
 	ReadFileContent("F:\\show.txt");
+	system("pause");
 	return 0;
 }

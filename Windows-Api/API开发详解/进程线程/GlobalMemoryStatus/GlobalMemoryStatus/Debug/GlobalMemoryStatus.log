@@ -1,0 +1,4 @@
+﻿  GlobalMemoryStatus.cpp
+f:\code-collection\windows-api\api开发详解\进程线程\globalmemorystatus\globalmemorystatus\globalmemorystatus.cpp(9): warning C4627: “#include <windows.h>”:  在查找预编译头使用时跳过
+          将指令添加到“stdafx.h”或重新生成预编译头
+f:\code-collection\windows-api\api开发详解\进程线程\globalmemorystatus\globalmemorystatus\globalmemorystatus.cpp(147): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
